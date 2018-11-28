@@ -1,0 +1,21 @@
+#article-mirror{
+    display:flex;
+    border: 10px;
+    color: blue;
+    border-style: solid;
+    border-width: 2px;
+    padding: 2px;
+    width: 25%;
+    align-items: center;
+}
+#article-mirror2 {
+    display:flex;
+    border: 10px;
+    color: red;
+    border-style: solid;
+    border-width: 2px;
+    padding: 2px;
+    width: 25%;
+    align-items: center;
+}
+
